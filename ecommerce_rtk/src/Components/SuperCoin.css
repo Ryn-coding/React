@@ -1,0 +1,15 @@
+.super-coin-container {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f9f9ff;
+}
+
+.super-coin-container h2 {
+  margin-bottom: 0.5rem;
+}
+
+.super-coin-container p {
+  margin: 0.25rem 0;
+}
